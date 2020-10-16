@@ -17,7 +17,7 @@ Submissions will be evaluated based on RMSE (root mean squared error) (Wikipedia
 
 
 ## Documents Explaination
-i) submission1.R ~ submission5.R: The code.  
+i) submission1.R ~ submission5.R: The code. I submitted my prediction 5 times, using different models to predict. submission 1 ~ 5 are the code for these 5 tryouts.
 ii) zipcode.csv: Used for looking up Longitude and Latitude according to zipcode.
 iii) Model Selection.pdf: Explaination on model seleting logic.
 
