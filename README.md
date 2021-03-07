@@ -5,7 +5,7 @@ Kaggle competition on Airbnb New Listing Price Prediction (R)
 
 ## Overview
 This project aim to analyze historical listing data from Airbnb and build a price prediction model for new listings. The inner-course project required us to compete with 464 students from Columbia University, at the end, my model ranked top 15% in terms of predicting accuracy (RMSE 59.08).
-
+ 
 
 ## The Kaggle Competition
 ### Description
